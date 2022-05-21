@@ -4,6 +4,7 @@ Goal: To spread Climate Change awareness using Deep Learning to predict future d
 Graphs are a good visual aid measure to depict the climate change which would further advance our goal. 
 
 **Data:**
+
 The original datasets were obtained from Kaggle and we performed some data cleaning on the data which is why we have attached the Data Files. 
 
 **Steps to run:**
